@@ -118,3 +118,4 @@ odd_1 = {0, 1, 2, 3, 4}
 odd_2 = {0, 1, 2, 3, 4, 4, 5, 6, 7, 8, 9}
 result = odd_1 ^ odd_2
 print(result)
+
